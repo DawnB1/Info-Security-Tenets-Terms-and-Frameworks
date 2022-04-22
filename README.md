@@ -22,8 +22,8 @@ Definition and Types of Security Operations Centers (SOC)
 Common Information Security Risks: Social Engineering Attacks, Advanced Persistent Threats (APT), Insider Threats, Cryptojacking, Distributed Denial of Service (DDoS)
 Ransomware, & Man-in-the-Middle (MitM) Attacks
 
-Information security technologies: Firewalls, Security Incident and Event Management (SIEM), Data loss prevention (DLP), Intrusion detection system (IPS),
-User behavioral analytics (UBA), Blockchain cybersecurity, Endpoint detection and response (EDR), Cloud security posture management (CSPM)
+Information security technologies: Firewalls, Security Incident and Event Management (SIEM), Data Loss Prevention (DLP), Intrusion Detection System (IDS),
+User Behavioral Analytics (UBA), Blockchain Cybersecurity, Endpoint Detection and Response (EDR), Cloud Security Posture Management (CSPM)
 
 Examples of Information Security in the Real World: DLP at Berkshire Bank, SOC at Grant Thornton, Incident Response at WSU, Information security certifications
 Best Practices
