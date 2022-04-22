@@ -5,9 +5,9 @@ Various Information Security Tenets, Frameworks, Terms and Articles discussing I
 
 https://www.exabeam.com/information-security/information-security/
 
-# This article covers the following
+# This article covers the following:
 
-## What is Information Security?
+What is Information Security?
 
 Information Security vs Cybersecurity
 
