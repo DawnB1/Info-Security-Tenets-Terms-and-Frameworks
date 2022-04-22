@@ -41,7 +41,9 @@ ISO 27002 is a supplementary standard that focuses on the information security c
 ## When you should use each standard
 ISO 27001 and ISO 27002 have different objectives and will be helpful in different circumstances.
 
-If you’re starting out with the Standard or are planning your ISMS implementation framework, then ISO 27001 is ideal. You should refer to ISO 27002 once you’ve identified the controls that you’ll be implementing to learn more about how each one works.
+If you’re starting out with the Standard or are planning your ISMS implementation framework, then ISO 27001 is ideal. 
+
+You should refer to ISO 27002 once you’ve identified the controls that you’ll be implementing to learn more about how each one works.
 
 ## What is the General Data Protection Regulation & Consumer Privacy Act?
 The California Consumer Privacy Act (CCPA) and the General Data Protection Regulation (GDPR) are laws that emerged to give individuals greater power over their personal information. 
