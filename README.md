@@ -5,7 +5,7 @@ Various Information Security Tenets, Frameworks, Terms and Articles discussing I
 
 https://www.exabeam.com/information-security/information-security/
 
-**This article covers the following:**
+# This article covers the following
 
 ## What is Information Security?
 
@@ -28,7 +28,7 @@ User behavioral analytics (UBA), Blockchain cybersecurity, Endpoint detection an
 Examples of Information Security in the Real World: DLP at Berkshire Bank, SOC at Grant Thornton, Incident Response at WSU, Information security certifications
 Best Practices
 
-# TENETS AND TERMS #
+# TENETS AND TERMS 
 
 ## What should a risk profile include?
 A risk profile should include:
