@@ -29,12 +29,19 @@ Best Practices
 
 # TENETS AND TERMS 
 
-## What should a risk profile include?
-A risk profile should include:
-The nature and level of the threats faced by an organization.
-The likelihood of adverse effects occurring.
-The level of disruption and costs associated with each type of risk.
-The effectiveness of the controls in place to manage those risks.
+## IEC 27001 & 27002 
+Essentially an overview of everything a company must do to achieve compliance.
+
+## ISO 27001
+ISO 27001 is the central framework of the ISO 27000 series which is the Standard that contains the implementation requirements for an ISMS (Information Security Management System, a series of documents relating to various parts of information security management).
+
+## ISO 27002
+ISO 27002 is a supplementary standard that focuses on the information security controls that organizations might choose to implement.
+
+## When you should use each standard
+ISO 27001 and ISO 27002 have different objectives and will be helpful in different circumstances.
+
+If you’re starting out with the Standard or are planning your ISMS implementation framework, then ISO 27001 is ideal. You should refer to ISO 27002 once you’ve identified the controls that you’ll be implementing to learn more about how each one works.
 
 ## What is the General Data Protection Regulation & Consumer Privacy Act?
 The California Consumer Privacy Act (CCPA) and the General Data Protection Regulation (GDPR) are laws that emerged to give individuals greater power over their personal information. 
@@ -51,20 +58,6 @@ Generally applies to organizations doing business in California, and to those th
 ## A brief summary of the GDPR:
 Gives European Union (E.U.) residents increased transparency and control over how businesses collect and use their data.
 Applies to organizations in and out of the E.U. that process the personal data of E.U. residents.
-
-## IEC 27001 & 27002 
-Essentially an overview of everything a company must do to achieve compliance.
-
-## ISO 27001
-ISO 27001 is the central framework of the ISO 27000 series which is the Standard that contains the implementation requirements for an ISMS (Information Security Management System, a series of documents relating to various parts of information security management).
-
-## ISO 27002
-ISO 27002 is a supplementary standard that focuses on the information security controls that organizations might choose to implement.
-
-## When you should use each standard
-ISO 27001 and ISO 27002 have different objectives and will be helpful in different circumstances.
-
-If you’re starting out with the Standard or are planning your ISMS implementation framework, then ISO 27001 is ideal. You should refer to ISO 27002 once you’ve identified the controls that you’ll be implementing to learn more about how each one works.
 
 ## NERC/ NERC CIP
 The NERC is the federal entity responsible for the oversight of the Bulk Electric System (BES) for North America. Its jurisdiction applies to all owners, users, producers, and suppliers of the Bulk Electric Supply in eight provinces of Canada, one state in Mexico and all of the continental United States. NERC Standards carry the force of regulation and as such are mandatory for all entities to whom it applies, and they cover a wide range of categories. 
@@ -86,3 +79,10 @@ The Security Standards for the Protection of Electronic Protected Health Informa
 
 ## HIPAA Enforcement Rule 
 This rule establishes guidelines for investigations into HIPAA compliance violations.
+
+## What should a risk profile include?
+A risk profile should include:
+The nature and level of the threats faced by an organization.
+The likelihood of adverse effects occurring.
+The level of disruption and costs associated with each type of risk.
+The effectiveness of the controls in place to manage those risks.
