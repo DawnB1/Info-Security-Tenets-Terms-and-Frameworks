@@ -15,8 +15,7 @@ Information Security Goals in Organizations
 
 Types of Information Security: Application Security, Infrastructure Security, Cloud Security, Cryptography, Incident response, Vulnerability Management, Disaster recovery
 
-What a CISO does
-
+What a CISO Does
 Definition and Types of Security Operations Centers (SOC)
 
 Common Information Security Risks: Social Engineering Attacks, Advanced Persistent Threats (APT), Insider Threats, Cryptojacking, Distributed Denial of Service (DDoS)
