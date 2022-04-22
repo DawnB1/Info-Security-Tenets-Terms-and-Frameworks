@@ -28,7 +28,8 @@ User behavioral analytics (UBA), Blockchain cybersecurity, Endpoint detection an
 Examples of Information Security in the Real World: DLP at Berkshire Bank, SOC at Grant Thornton, Incident Response at WSU, Information security certifications
 Best Practices
 
-#TENETS AND TERMS
+# TENETS AND TERMS
+
 ## What should a risk profile include?
 A risk profile should include:
 The nature and level of the threats faced by an organization.
