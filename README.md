@@ -52,12 +52,12 @@ Both regulate organizations that collect and use data in a variety of ways.
 
 The GDPR does have implications for businesses in the United States, despite originating in Europe. 
 
-## A brief summary of the CCPA:
+## A brief summary of the CCPA
 Gives California residents increased transparency and control over how businesses collect and use their data.
 
 Generally applies to organizations doing business in California, and to those that handle or share the personal information of California residents
 
-## A brief summary of the GDPR:
+## A brief summary of the GDPR
 Gives European Union (E.U.) residents increased transparency and control over how businesses collect and use their data.
 Applies to organizations in and out of the E.U. that process the personal data of E.U. residents.
 
