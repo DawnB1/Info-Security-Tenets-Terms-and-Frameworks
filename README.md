@@ -29,6 +29,17 @@ Best Practices
 
 # TENETS AND TERMS 
 
+## The Zero Trust Model 
+The concept that there should be zero trust with anything or anyone that
+is attempting to access the company’s network until they’re verified. In other words, never trust always
+verify. It is valuable because it further secures one’s network against internal and external threats by
+verifying anything and everything that has access to it.
+
+Examples of some of the main principles behind Zero Trust are: Implementing access controls (like VPN,
+which is an information access control), MFA or multi factor authentication (which requires 2 or more
+methods of authentication to verify a user, 2 factor is the most common), and Least Privilege (giving
+users the least amount of access they need to accomplish tasks within their specific role).
+
 ## IEC 27001 & 27002 
 Essentially an overview of everything a company must do to achieve compliance.
 
