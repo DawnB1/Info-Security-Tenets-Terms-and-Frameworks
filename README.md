@@ -30,15 +30,9 @@ Best Practices
 # TENETS AND TERMS 
 
 ## The Zero Trust Model 
-The concept that there should be zero trust with anything or anyone that
-is attempting to access the company’s network until they’re verified. In other words, never trust always
-verify. It is valuable because it further secures one’s network against internal and external threats by
-verifying anything and everything that has access to it.
+The concept that there should be zero trust with anything or anyone that is attempting to access the company’s network until they’re verified. In other words, never trust always verify. It is valuable because it further secures one’s network against internal and external threats by verifying anything and everything that has access to it.
 
-Examples of some of the main principles behind Zero Trust are: Implementing access controls (like VPN,
-which is an information access control), MFA or multi factor authentication (which requires 2 or more
-methods of authentication to verify a user, 2 factor is the most common), and Least Privilege (giving
-users the least amount of access they need to accomplish tasks within their specific role).
+Examples of some of the main principles behind Zero Trust are: Implementing access controls (like VPN, which is an information access control), MFA or multi factor authentication (which requires 2 or more methods of authentication to verify a user, 2 factor is the most common), and Least Privilege (giving users the least amount of access they need to accomplish tasks within their specific role).
 
 ## IEC 27001 & 27002 
 Essentially an overview of everything a company must do to achieve compliance.
@@ -64,13 +58,12 @@ Both regulate organizations that collect and use data in a variety of ways.
 The GDPR does have implications for businesses in the United States, despite originating in Europe. 
 
 ## A brief summary of the CCPA
-Gives California residents increased transparency and control over how businesses collect and use their data.
-
-Generally applies to organizations doing business in California, and to those that handle or share the personal information of California residents
+1. Gives California residents increased transparency and control over how businesses collect and use their data.
+2. Generally applies to organizations doing business in California, and to those that handle or share the personal information of California residents
 
 ## A brief summary of the GDPR
-Gives European Union (E.U.) residents increased transparency and control over how businesses collect and use their data.
-Applies to organizations in and out of the E.U. that process the personal data of E.U. residents.
+1. To give European Union (E.U.) residents increased transparency and control over how businesses collect and use their data.
+2. GDPR applies to organizations in and out of the E.U. that process the personal data of E.U. residents.
 
 ## There are security controls that need to be put in place so that General Data Protection Regulation can work for your business.
 The fundamental practices needed for compliance around a security and data privacy program are:
@@ -100,7 +93,9 @@ CIP deals with the prior planning and preparation within organizations and gover
 ## HIPAA - The Health Insurance Portability and Accountability Act of 1996
 HIPAA is United States legislation that provides data privacy and security provisions for safeguarding medical information. The law has emerged into greater prominence in recent years with the many health data breaches caused by cyber attacks and ransomware attacks on health insurers and providers. The federal law was signed by President Bill Clinton on Aug. 21, 1996. HIPAA overrides state laws regarding the safety of medical information, unless the state law is considered more stringent than HIPAA.
 
-It's two main purposes are: to provide continuous health insurance coverage for workers who lose or change their job and to ultimately reduce the cost of healthcare by standardizing the electronic transmission of administrative and financial transactions. Other goals include combating abuse, fraud and waste in health insurance and healthcare delivery, and improving access to long-term care services and health insurance.
+It's two main purposes are: 
+1. To provide continuous health insurance coverage for workers who lose or change their job and to ultimately reduce the cost of healthcare by standardizing the electronic transmission of administrative and financial transactions. 
+2. Other goals include combating abuse, fraud and waste in health insurance and healthcare delivery, and improving access to long-term care services and health insurance.
 
 ## HIPAA Privacy Rule 
 Officially known as the Standards for Privacy of Individually Identifiable Health Information, this rule establishes national standards to protect patient health information.
