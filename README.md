@@ -76,27 +76,7 @@ NIST is the National Institute of Standards and Technology, a U.S. government ag
 
 The NIST Incident Framework involves four steps:
 
-1. Preparation
-2. Detection and Analysis
-3. Containment, Eradication and Recovery
-4. Post-Incident Activity
-
-SANS Incident Response 101
-Sysadmin, Audit, Network, and Security (SANS) is a private organization that researches and educates industries in the four key cyber disciplines. The SANS framework primarily focuses on security as opposed to NIST, which has a wider domain of operation.
-
-The SANS framework is similar to the NIST framework, except it splits out the containment, eradication, and recovery into discrete steps. The six phases of the SANS framework are as follow:
-
-1. Preparation
-2. Identification
-3. Containment
-4. Eradication
-5. Recovery
-6. Lessons Learned
-
-
-
-
-1. Preparation
+1. Preparation 
 
 During the preparation phase, organizations aim to limit the risk of incidents by setting up controls and taking precautionary measures based on risk assessments.   
 
@@ -105,7 +85,7 @@ Depending on the nature of the work, this phase can include anything from hardwa
 Common controls implemented during this stage include a written policy about the organization’s rules, an established response plan with details about relevant 
 personnel, a communication plan, and access control strategies for physical and digital spaces.
 
-2. Detection and Analysis
+2. Detection and Analysis 
 
 This step is also quite similar for both NIST and SANS frameworks. During this phase, the cyber incident management experts will take a closer look at deviations from 
 the norm and analyze whether they fall into the incident category or not. Information from various sources such as error messages, log files, firewalls, and detection 
@@ -113,7 +93,7 @@ intrusion systems is gathered.
 
 Pro Tip: Training employees to report deviations immediately can help you respond faster to the situation.
 
-3. Containment, Eradication and Recovery
+3. Containment, Eradication and Recovery 
 
 NIST frameworks combine containment, eradication, and recovery in one step, which is a step that your cyber threat intelligence team can take. This can be the longest and most complex step in the process. On the other hand, the SANS framework for each of these steps needs to be distinct, even though the gist remains the same.
 
@@ -126,6 +106,19 @@ The recovery phase tests and validates all affected systems before they can go b
 4. Post-Incident Activity
 
 Lastly, both frameworks require you to analyze the aftereffects and what you know of the attack. Learning from the attack and moving forward with an improvement plan is key, which is what the framework requires from you. Best practice is to carry out the post-incident review as soon as possible following the incident to ensure memories are fresh, and findings can be implemented swiftly.
+
+
+SANS Incident Response 101
+Sysadmin, Audit, Network, and Security (SANS) is a private organization that researches and educates industries in the four key cyber disciplines. The SANS framework primarily focuses on security as opposed to NIST, which has a wider domain of operation.
+
+The SANS framework is similar to the NIST framework, except it splits out the containment, eradication, and recovery into discrete steps. The six phases of the SANS framework are as follow:
+
+1. Preparation
+2. Identification
+3. Containment
+4. Eradication
+5. Recovery
+6. Lessons Learned
 
 # More Frameworks, Tenets, and Terms
 
