@@ -70,6 +70,8 @@ ITIL® breaks down into the following five components:
 
 # Comparing NIST & SANS Incident Frameworks
 
+https://isacybersecurity.com/comparing-nist-sans-incident-frameworks/
+
 NIST is the National Institute of Standards and Technology, a U.S. government agency that specializes in all kinds of tech. The NIST Cybersecurity Framework is one of the most popular methodologies for better understanding and managing cybersecurity risk. A component of their over-all framework is the NIST Incident Framework, which is one of the most widely-used incident response standards around the world.
 
 The NIST Incident Framework involves four steps:
@@ -90,6 +92,28 @@ The SANS framework is similar to the NIST framework, except it splits out the co
 4. Eradication
 5. Recovery
 6. Lessons Learned
+
+1. Preparation
+During the preparation phase, organizations aim to limit the risk of incidents by setting up controls and taking precautionary measures based on risk assessments. Depending on the nature of the work, this phase can include anything from hardware failure and power outages to extreme situations such as data leaks (accidental or intentional) or state-sponsored cyberattacks.
+
+Common controls implemented during this stage include a written policy about the organization’s rules, an established response plan with details about relevant personnel, a communication plan, and access control strategies for physical and digital spaces.
+
+2. Detection and Analysis
+This step is also quite similar for both NIST and SANS frameworks. During this phase, the cyber incident management experts will take a closer look at deviations from the norm and analyze whether they fall into the incident category or not. Information from various sources such as error messages, log files, firewalls, and detection intrusion systems is gathered.
+
+Pro Tip: Training employees to report deviations immediately can help you respond faster to the situation.
+
+3. Containment, Eradication and Recovery
+NIST frameworks combine containment, eradication, and recovery in one step, which is a step that your cyber threat intelligence team can take. This can be the longest and most complex step in the process. On the other hand, the SANS framework for each of these steps needs to be distinct, even though the gist remains the same.
+
+The first part of this step involves containing the incident and implementing damage control. The network of infected computers is quickly isolated by switching off routers, removing network cables, and powering down systems. This must be done in an orderly fashion to minimize damage and preserve forensic data for later analysis. Sometimes during this process, a backup or forensic image of the affected systems is captured so it can be reviewed later on.
+
+Eradicating the problem requires the removal of the issue and eventual restoration. Malware is removed if possible, otherwise systems must be wiped completely before they can be re-used. At this point, any patches or improvements to the software should also be considered to prevent re-occurrence.
+
+The recovery phase tests and validates all affected systems before they can go back online. Clear communication and timelines for testing and implementation can streamline the recovery process and ensure fully functional systems.
+
+4. Post-Incident Activity
+Lastly, both frameworks require you to analyze the aftereffects and what you know of the attack. Learning from the attack and moving forward with an improvement plan is key, which is what the framework requires from you. Best practice is to carry out the post-incident review as soon as possible following the incident to ensure memories are fresh, and findings can be implemented swiftly.
 
 # More Frameworks, Tenets, and Terms
 
