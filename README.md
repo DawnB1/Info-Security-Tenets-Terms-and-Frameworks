@@ -65,7 +65,7 @@ The GDPR does have implications for businesses in the United States, despite ori
 1. To give European Union (E.U.) residents increased transparency and control over how businesses collect and use their data.
 2. GDPR applies to organizations in and out of the E.U. that process the personal data of E.U. residents.
 
-## There are security controls that need to be put in place so that General Data Protection Regulation can work for your business.
+## Security Controls that need to be put in place so that General Data Protection Regulation can work for your business
 The fundamental practices needed for compliance around a security and data privacy program are:
 
 1. Identity and Access Management (IDAM or IAM), whose two key principles are, separation of duties and least privilege. They help ensure that employees have access  only to information or systems applicable to their job function.
