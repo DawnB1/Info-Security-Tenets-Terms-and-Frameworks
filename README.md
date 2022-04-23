@@ -27,6 +27,33 @@ User Behavioral Analytics (UBA), Blockchain Cybersecurity, Endpoint Detection an
 Examples of Information Security in the Real World: DLP at Berkshire Bank, SOC at Grant Thornton, Incident Response at WSU, Information security certifications
 Best Practices
 
+# COBIT vs. ITIL®: The Ultimate IT Governance Framework Comparison
+
+https://www.simplilearn.com/cobit-vs-itil-article
+
+1. IT Service Management Defined
+2. What is COBIT?What is ITIL?
+3. What are the Differences Between ITIL and COBIT?
+4. What are ITIL and COBIT’s Objectives?
+
+What is COBIT?
+First introduced in 1996, COBIT, short for Control Objectives for Information and Related Technologies, is a set of practices and guidelines to help management get the most out of IT resources. Also referred to as a framework or a methodology, COBIT bridges the gap between IT goals and business goals, providing resources to build, oversee, and improve its implementation, while reducing costs, maintaining privacy standards, and giving both structure and oversight to the IT functions within the organization.
+
+COBIT’s Core Components Include:
+
+Control objectives
+Frameworks
+Management guidelines
+Maturity models
+Process descriptions
+COBIT’s framework embraces these principles:
+
+Applying a single integrated framework to the organization
+Enabling a holistic approach
+End-to-end coverage of the enterprise
+Meeting stakeholder needs
+Separating governance from management
+
 # TENETS AND TERMS 
 
 ## The Zero Trust Model 
