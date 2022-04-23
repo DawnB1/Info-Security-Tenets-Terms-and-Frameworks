@@ -42,18 +42,19 @@ First introduced in 1996, COBIT, short for Control Objectives for Information an
 
 COBIT’s Core Components Include:
 
-Control objectives
-Frameworks
-Management guidelines
-Maturity models
-Process descriptions
+1. Control objectives
+2. Frameworks
+3. Management guidelines
+4. Maturity models
+5. Process descriptions
+
 COBIT’s framework embraces these principles:
 
-Applying a single integrated framework to the organization
-Enabling a holistic approach
-End-to-end coverage of the enterprise
-Meeting stakeholder needs
-Separating governance from management
+1. Applying a single integrated framework to the organization
+2. Enabling a holistic approach
+3. End-to-end coverage of the enterprise
+4. Meeting stakeholder needs
+5. Separating governance from management
 
 # TENETS AND TERMS 
 
