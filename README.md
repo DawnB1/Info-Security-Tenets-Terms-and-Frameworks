@@ -68,6 +68,29 @@ ITIL® breaks down into the following five components:
 4. Service Operation - Assuring daily operations by delivering recursive support tasks through resources such as a service desk or backups, to name a few
 5. Continuous Service Improvement - Looking at established key performance indicators (KPIs) and their evolution, including any problems and bottlenecks, and performing the needed analysis to develop optimization proposals
 
+# Comparing NIST & SANS Incident Frameworks
+
+NIST is the National Institute of Standards and Technology, a U.S. government agency that specializes in all kinds of tech. The NIST Cybersecurity Framework is one of the most popular methodologies for better understanding and managing cybersecurity risk. A component of their over-all framework is the NIST Incident Framework, which is one of the most widely-used incident response standards around the world.
+
+The NIST Incident Framework involves four steps:
+
+1. Preparation
+2. Detection and Analysis
+3. Containment, Eradication and Recovery
+4. Post-Incident Activity
+
+SANS Incident Response 101
+Sysadmin, Audit, Network, and Security (SANS) is a private organization that researches and educates industries in the four key cyber disciplines. The SANS framework primarily focuses on security as opposed to NIST, which has a wider domain of operation.
+
+The SANS framework is similar to the NIST framework, except it splits out the containment, eradication, and recovery into discrete steps. The six phases of the SANS framework are as follow:
+
+1. Preparation
+2. Identification
+3. Containment
+4. Eradication
+5. Recovery
+6. Lessons Learned
+
 # TENETS AND TERMS 
 
 ## The Zero Trust Model 
