@@ -72,6 +72,24 @@ Generally applies to organizations doing business in California, and to those th
 Gives European Union (E.U.) residents increased transparency and control over how businesses collect and use their data.
 Applies to organizations in and out of the E.U. that process the personal data of E.U. residents.
 
+## There are security controls that need to be put in place so that General Data Protection Regulation can work for your business.
+The fundamental practices needed for compliance around a security and data privacy program are:
+
+1. Identity and Access Management (IDAM or IAM), whose two key principles are, separation of duties and least privilege. They help ensure that employees have access  only to information or systems applicable to their job function.
+
+2. A DLP (Data Loss Prevention) tool helps prevent the loss of personal data, which is critical in preventing a breach. DLP controls add a layer of protection by restricting the transmission of personal data outside the network.
+
+3. Pseudonymization helps the organization meet its data protection obligations, particularly the principles of data minimization and storage limitation, and processing for research purposes for which ‘appropriate safeguards’ are required. It is defined within GDPR as the processing of personal data in such a way that the data can no longer be attributed to a specific data subject without the use of additional information, as long as such additional information is kept separately and subject to technical and organizational measures to ensure non-attribution to an identified or identifiable individual.
+
+4. A mature Incident Response Plan (IRP) addresses phases such as preparation, identification, containment, eradication, recovery, and lessons learned. Under GDPR, in the event of a potential data breach that involves personal information, your organization would need to notify the Data Protection Authority without undue delay, within 72 hours if feasible, after becoming aware of the breach; and Communicate high-risk breaches to affected data subjects without undue delay.
+
+5. Third-Party Risk Management, if an organization entrusts the processing of personal data to a processor or sub-processor, and a breach occurs, all are liable. GDPR data compliance also obligates processors to have an active role in the protection of personal data. Regardless of instructions fromthe controller, the processor of  personal data must follow GDPR and can be liable for any incidents associated with loss or unauthorized access to personal data. Sub-processors also will need to
+comply with the GDPR based on each contractual relationship established between a processor and sub-processor.
+ 
+6. Review Policies and Procedures and measure their effectiveness and maturity. (i.e., they may be outdated or just not work for your current posture and if not, draft new/revise current policies) Revision would be best, as if everyone isn’t on board because the change is too broad, and they don’t implement the processes as needed, a breach can occur. For best practices, organizational policy acknowledgment and training ensures policies are properly communicated and understood.
+
+7. Create a plan that provides in-depth analysis of gaps in order to assess your company’s level of compliance of the information security management.
+
 ## NERC/ NERC CIP
 The NERC is the federal entity responsible for the oversight of the Bulk Electric System (BES) for North America. Its jurisdiction applies to all owners, users, producers, and suppliers of the Bulk Electric Supply in eight provinces of Canada, one state in Mexico and all of the continental United States. NERC Standards carry the force of regulation and as such are mandatory for all entities to whom it applies, and they cover a wide range of categories. 
 
