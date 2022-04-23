@@ -95,7 +95,8 @@ The SANS framework is similar to the NIST framework, except it splits out the co
 
 
 
-1. Preparation
+
+ 1. Preparation
 
 During the preparation phase, organizations aim to limit the risk of incidents by setting up controls and taking precautionary measures based on risk assessments.   
 
