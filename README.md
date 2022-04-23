@@ -109,10 +109,7 @@ This rule establishes guidelines for investigations into HIPAA compliance violat
 ## What should a risk profile include?
 A risk profile should include:
 
-The nature and level of the threats faced by an organization.
-
-The likelihood of adverse effects occurring.
-
-The level of disruption and costs associated with each type of risk.
-
-The effectiveness of the controls in place to manage those risks.
+1. The nature and level of the threats faced by an organization.
+2. The likelihood of adverse effects occurring.
+3. The level of disruption and costs associated with each type of risk.
+4. The effectiveness of the controls in place to manage those risks.
