@@ -68,7 +68,7 @@ ITIL® breaks down into the following five components:
 4. Service Operation - Assuring daily operations by delivering recursive support tasks through resources such as a service desk or backups, to name a few
 5. Continuous Service Improvement - Looking at established key performance indicators (KPIs) and their evolution, including any problems and bottlenecks, and performing the needed analysis to develop optimization proposals
 
-# Comparing NIST & SANS Incident Frameworks
+# Comparing NIST & SANS Incident Response Frameworks
 
 https://isacybersecurity.com/comparing-nist-sans-incident-frameworks/
 
