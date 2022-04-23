@@ -91,7 +91,7 @@ The SANS framework is similar to the NIST framework, except it splits out the co
 5. Recovery
 6. Lessons Learned
 
-# MORE FRAMEWORKS, TENETS, AND TERMS 
+# More Frameworks, Tenets, and Terms
 
 ## The Zero Trust Model 
 The concept that there should be zero trust with anything or anyone that is attempting to access the company’s network until they’re verified. In other words, never trust always verify. It is valuable because it further secures one’s network against internal and external threats by verifying anything and everything that has access to it.
