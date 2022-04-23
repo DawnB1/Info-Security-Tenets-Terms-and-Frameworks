@@ -94,7 +94,7 @@ The SANS framework is similar to the NIST framework, except it splits out the co
 6. Lessons Learned
 
 
-1. Preparation
+1.Preparation
 During the preparation phase, organizations aim to limit the risk of incidents by setting up controls and taking precautionary measures based on risk assessments. Depending on the nature of the work, this phase can include anything from hardware failure and power outages to extreme situations such as data leaks (accidental or intentional) or state-sponsored cyberattacks.
 
 Common controls implemented during this stage include a written policy about the organization’s rules, an established response plan with details about relevant personnel, a communication plan, and access control strategies for physical and digital spaces.
