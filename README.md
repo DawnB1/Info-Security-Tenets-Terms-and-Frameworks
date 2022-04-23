@@ -56,6 +56,18 @@ COBIT’s framework embraces these principles:
 4. Meeting stakeholder needs
 5. Separating governance from management
 
+What is ITIL®?
+
+ITIL® stands for Information Technology Infrastructure Library. It’s a framework designed to manage an organization’s IT services using a set of best practices, planning, and selection, across the entire lifecycle. ITIL® focuses on IT service management—handling issues from the perspective of the IT department. ITIL® helps businesses organize an IT team’s daily processes and routines.
+
+ITIL® breaks down into the following five components:
+
+1. Service strategy - Focusing on mirroring the entire IT Service Delivery model so that it perfectly matches and handles the organization’s structure and needs, while simultaneously establishing the processes necessary for monitoring and updating configuration items according to the organization’s needs and impact
+2. Service Design - Designing and continuously assessing a set of IT processes and service processes that best fits the company’s needs
+3. Service Transition - Defining and mitigating risk factors using proper planning and change management
+4. Service Operation - Assuring daily operations by delivering recursive support tasks through resources such as a service desk or backups, to name a few
+5. Continuous Service Improvement - Looking at established key performance indicators (KPIs) and their evolution, including any problems and bottlenecks, and performing the needed analysis to develop optimization proposals
+
 # TENETS AND TERMS 
 
 ## The Zero Trust Model 
