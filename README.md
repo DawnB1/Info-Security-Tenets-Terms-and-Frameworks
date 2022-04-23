@@ -37,6 +37,7 @@ https://www.simplilearn.com/cobit-vs-itil-article
 4. What are ITIL and COBIT’s Objectives?
 
 What is COBIT?
+
 First introduced in 1996, COBIT, short for Control Objectives for Information and Related Technologies, is a set of practices and guidelines to help management get the most out of IT resources. Also referred to as a framework or a methodology, COBIT bridges the gap between IT goals and business goals, providing resources to build, oversee, and improve its implementation, while reducing costs, maintaining privacy standards, and giving both structure and oversight to the IT functions within the organization.
 
 COBIT’s Core Components Include:
