@@ -32,9 +32,10 @@ Best Practices
 https://www.simplilearn.com/cobit-vs-itil-article
 
 1. IT Service Management Defined
-2. What is COBIT?What is ITIL?
-3. What are the Differences Between ITIL and COBIT?
-4. What are ITIL and COBIT’s Objectives?
+2. What is COBIT?
+3. What is ITIL?
+4. What are the Differences Between ITIL and COBIT?
+5. What are ITIL and COBIT’s Objectives?
 
 What is COBIT?
 
