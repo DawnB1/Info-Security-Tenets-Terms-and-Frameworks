@@ -79,12 +79,14 @@ The NIST Incident Framework involves four steps:
 
 1. Preparation - During the preparation phase, organizations aim to limit the risk of incidents by setting up controls and taking precautionary measures based on risk assessments. Depending on the nature of the work, this phase can include anything from hardware failure and power outages to extreme situations such as data leaks (accidental or  intentional) or state-sponsored cyberattacks.
 
-Common controls implemented during this stage include a written policy about the organization’s rules, an established response plan with details about relevant 
-personnel, a communication plan, and access control strategies for physical and digital spaces.
+ Common controls implemented during this stage include a written policy about the organization’s rules, an established response plan with details about relevant 
+ personnel, a communication plan, and access control strategies for physical and digital spaces.
 
-2. Detection and Analysis - This step is also quite similar for both NIST and SANS frameworks. During this phase, the cyber incident management experts will take a closer look at deviations from the norm and analyze whether they fall into the incident category or not. Information from various sources such as error messages, log files, firewalls, and detection intrusion systems is gathered.
+2. Detection and Analysis - This step is also quite similar for both NIST and SANS frameworks. During this phase, the cyber incident management experts will take a  
 
-Pro Tip: Training employees to report deviations immediately can help you respond faster to the situation.
+ closer look at deviations from the norm and analyze whether they fall into the incident category or not. Information from various sources such as error messages, log   files, firewalls, and detection intrusion systems is gathered.
+
+ Pro Tip: Training employees to report deviations immediately can help you respond faster to the situation.
 
 3. Containment, Eradication and Recovery - NIST frameworks combine containment, eradication, and recovery in one step, which is a step that your cyber threat intelligence team can take. This can be the longest and most complex step in the process. On the other hand, the SANS framework for each of these steps needs to be distinct, even though the gist remains the same.
 
