@@ -83,10 +83,9 @@ Common controls implemented during this stage include a written policy about the
 personnel, a communication plan, and access control strategies for physical and digital spaces.
 
 **Detection and Analysis** - This step is also quite similar for both NIST and SANS frameworks. During this phase, the cyber incident management experts will take a  
+closer look at deviations from the norm and analyze whether they fall into the incident category or not. Information from various sources such as error messages, log   files, firewalls, and detection intrusion systems is gathered.
 
- closer look at deviations from the norm and analyze whether they fall into the incident category or not. Information from various sources such as error messages, log   files, firewalls, and detection intrusion systems is gathered.
-
- Pro Tip: Training employees to report deviations immediately can help you respond faster to the situation.
+Pro Tip: Training employees to report deviations immediately can help you respond faster to the situation.
 
 **Containment, Eradication and Recovery** - NIST frameworks combine containment, eradication, and recovery in one step, which is a step that your cyber threat intelligence team can take. This can be the longest and most complex step in the process. On the other hand, the SANS framework for each of these steps needs to be distinct, even though the gist remains the same.
 
@@ -100,6 +99,7 @@ The recovery phase tests and validates all affected systems before they can go b
 
 **SANS Incident Response 101**
 Sysadmin, Audit, Network, and Security (SANS) is a private organization that researches and educates industries in the four key cyber disciplines. The SANS framework primarily focuses on security as opposed to NIST, which has a wider domain of operation.
+
 
 The SANS framework is similar to the NIST framework, except it splits out the containment, eradication, and recovery into discrete steps. The six phases of the SANS framework are as follow:
 
