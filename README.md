@@ -83,8 +83,8 @@ During the preparation phase, organizations aim to limit the risk of incidents b
 Common controls implemented during this stage include a written policy about the organization’s rules, an established response plan with details about relevant 
 personnel, a communication plan, and access control strategies for physical and digital spaces.
 
-Step 2
-**Detection and Analysis** - This step is also quite similar for both NIST and SANS frameworks. During this phase, the cyber incident management experts will take a  closer look at deviations from the norm and analyze whether they fall into the incident category or not. Information from various sources such as error messages, log   files, firewalls, and detection intrusion systems is gathered.
+Step 2 **Detection and Analysis**
+This step is also quite similar for both NIST and SANS frameworks. During this phase, the cyber incident management experts will take a  closer look at deviations from the norm and analyze whether they fall into the incident category or not. Information from various sources such as error messages, log   files, firewalls, and detection intrusion systems is gathered.
 
 Pro Tip: Training employees to report deviations immediately can help you respond faster to the situation.
 
