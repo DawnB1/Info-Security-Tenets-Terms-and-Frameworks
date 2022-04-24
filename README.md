@@ -101,7 +101,7 @@ Step 4
 **Post-Incident Activity** - Lastly, both frameworks require you to analyze the aftereffects and what you know of the attack. Learning from the attack and moving forward with an improvement plan is key, which is what the framework requires from you. Best practice is to carry out the post-incident review as soon as possible following the incident to ensure memories are fresh, and findings can be implemented swiftly.
 
 
-**SANS Incident Response 101**
+**SANS Incident Response 101** 
 Sysadmin, Audit, Network, and Security (SANS) is a private organization that researches and educates industries in the four key cyber disciplines. The SANS framework primarily focuses on security as opposed to NIST, which has a wider domain of operation.
 
 
