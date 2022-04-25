@@ -129,12 +129,12 @@ Neither standard is required by law, but non-compliance with either one has cons
 
 SOC 2 reports are comprehensive reviews of your organization’s data security controls, according to standards determined by the American Institute of Certified Public Accountants (AICPA). There are several kinds of SOC reports—most notably the SOC 3, which uses the same trust services criteria as the SOC 2. The SOC 2, however, contains more sensitive data and is meant to be confidential; SOC 3 reports are designed to be certified and shared.  
 
-The trust services criteria of the SOC 2 are derived from five key principles:  
-Security: All procedures and security controls included in an organization’s defense against data breaches should be effective and tested regularly.  
-Availability: Systems and information should be accessible to staff and clients in accordance with the company’s purpose and goals.  
-Processing Integrity: System processing must meet the objectives of the company and user entities while remaining both accurate and efficient.  
-Confidentiality: Any information deemed confidential should be appropriately shielded from access by unauthorized parties.  
-Privacy: Any information that is connected to an individual’s identity should be both stored and disposed of securely. 
+**The trust services criteria of the SOC 2 are derived from five key principles:**  
+**Security:** All procedures and security controls included in an organization’s defense against data breaches should be effective and tested regularly.  
+**Availability:** Systems and information should be accessible to staff and clients in accordance with the company’s purpose and goals.  
+**Processing Integrity:** System processing must meet the objectives of the company and user entities while remaining both accurate and efficient.  
+**Confidentiality:** Any information deemed confidential should be appropriately shielded from access by unauthorized parties.  
+**Privacy:** Any information that is connected to an individual’s identity should be both stored and disposed of securely. 
 
 What Is the PCI DSS?  
 The PCI DSS was developed by the major credit card providers to ensure that cardholder data is protected by companies that process credit card information. There are 12 primary PCI compliance requirements. Those primary requirements are further divided into 281 sub-requirements, which may or may not apply to an organization based on the volume of transactions it performs annually and how those transactions are processed. Companies must validate their compliance with PCI DSS to process transactions, and any part of their network which is found not to be PCI compliant in the event of a breach could lead to heavy monetary penalties.
