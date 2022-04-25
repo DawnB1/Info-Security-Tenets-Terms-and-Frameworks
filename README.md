@@ -127,7 +127,7 @@ https://reciprocity.com/resources/soc-2-vs-pci-compliance-whats-the-difference/
 
 Neither standard is required by law, but non-compliance with either one has considerable consequences. For example, if your business isn’t PCI DSS-compliant, you run the risk of having your credit card processing privileges revoked. A company without an up-to-date SOC 2 report might lose business to rivals that can demonstrate that their customer data is safe, which a SOC 2 report helps to do.
 
-SOC 2 reports are comprehensive reviews of your organization’s data security controls, according to standards determined by the American Institute of Certified Public Accountants (AICPA). There are several kinds of SOC reports—most notably the SOC 3, which uses the same trust services criteria as the SOC 2. The SOC 2, however, contains more sensitive data and is meant to be confidential; SOC 3 reports are designed to be certified and shared.  
+**SOC 2** reports are comprehensive reviews of your organization’s data security controls, according to standards determined by the American Institute of Certified Public Accountants (AICPA). There are several kinds of SOC reports—most notably the SOC 3, which uses the same trust services criteria as the SOC 2. The SOC 2, however, contains more sensitive data and is meant to be confidential; SOC 3 reports are designed to be certified and shared.  
 
 **The trust services criteria of the SOC 2 are derived from five key principles:**  
 **Security:** All procedures and security controls included in an organization’s defense against data breaches should be effective and tested regularly.  
@@ -136,7 +136,7 @@ SOC 2 reports are comprehensive reviews of your organization’s data security c
 **Confidentiality:** Any information deemed confidential should be appropriately shielded from access by unauthorized parties.  
 **Privacy:** Any information that is connected to an individual’s identity should be both stored and disposed of securely. 
 
-What Is the PCI DSS?  
+**What Is the PCI DSS?**  
 The PCI DSS was developed by the major credit card providers to ensure that cardholder data is protected by companies that process credit card information. There are 12 primary PCI compliance requirements. Those primary requirements are further divided into 281 sub-requirements, which may or may not apply to an organization based on the volume of transactions it performs annually and how those transactions are processed. Companies must validate their compliance with PCI DSS to process transactions, and any part of their network which is found not to be PCI compliant in the event of a breach could lead to heavy monetary penalties.
 
 The primary difference between PCI DSS and SOC 2 is that the former only applies to businesses that process payment card data; the latter applies to any company that processes or stores personal consumer information of any kind. So some overlap does exist between the two standards, but SOC 2 applies to a far larger number of organizations than PCI DSS.
