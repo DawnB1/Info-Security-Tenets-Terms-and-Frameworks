@@ -39,17 +39,29 @@ https://www.techtarget.com/searchsecurity/answer/What-are-the-most-important-ema
 3. Internet Message Access Protocol 4 and Post Office Protocol 3 specify how email clients retrieve messages from SMTP servers.
 
 E-mail Security Protocols and the Role They Play in Keeping E-mail Safe:
-SL/TLS for HTTPS: Secure Sockets Layer (SSL) was introduced in 1995. After experiencing vulnerabilities, SSLv3 was succeeded by the Transport Layer Security (TLS) protocol in 1999 and eventually deprecated in 2015. Many still refer to TLS as its predecessor, SSL.
-SMTPS: While SSL/TLS does not play an inherent role in email security, it is used for HTTPS, which is used for almost all email exchanges between servers and users.
+
+1. SL/TLS for HTTPS: Secure Sockets Layer (SSL) was introduced in 1995. After experiencing vulnerabilities, SSLv3 was succeeded by the Transport Layer Security (TLS) protocol in 1999 and eventually deprecated in 2015. Many still refer to TLS as its predecessor, SSL. 
+
+While SSL/TLS does not play an inherent role in email security, it is used for HTTPS, which is used for almost all email exchanges between servers and users.
+
 HTTPS uses TLS to encrypt streams of network traffic between clients and servers. It is not invoked directly in email, but is used for web traffic and thus is used to encrypt webmail messages.
-STARTTLS:
-SMTP MTA-STS:
-SPF:
-DKIM:
-DMARC:
-S/MIME:
-OpenPGP:
-Digital Certificates:
+
+2. SMTPS: SMTP Secure (SMTPS) works like HTTPS for SMTP. It uses TLS to encrypt message exchanges between clients and servers. Encrypted TLS traffic is decrypted at its destination, however, so cleartext messages may be accessible on email servers as messages are routed unless another encryption protocol, such as STARTTLS, is in use.
+3. STARTTLS: STARTTLS is a service extension for SMTP that supports opportunistic encryption between mail servers and clients. When the STARTTLS extension is in use, communicating mail systems negotiate the use of encryption and authentication algorithms to protect exchanges. All message content and message metadata can be encrypted. Once the transmissions are received, the data will be decrypted.
+
+4. SMTP MTA-STS: The SMTP Mail Transfer Agent Strict Transport Security (MTA-STS) protocol helps secure emails by enabling SMTP servers to add encryption via TLS. It also gives enterprises a mechanism to enable servers to refuse to connect with servers that do not offer TLS connections with a trusted certificate. By requiring a trusted certificate and rejecting connections from unauthenticated servers, email providers can prevent attackers from using fraudulent domains to send phishing or spam email.
+
+5. SPF: Sender Policy Framework (SPF) provides a protocol that enables domain owners to identify which hosts are authorized to use their domain names when sending email and defines how that authorization can be verified. It provides a way for domain owners to announce which IP addresses are authorized to send email on behalf of the domain. It also reduces the likelihood that spam or phishing emails can be sent with that domain spoofed as the source of the messages, even though SPF is usually enabled with additional email security protocols that provide stronger assurances that email originated from the proper domain.
+
+6. DKIM: DomainKeys Identified Mail (DKIM) builds on SPF and enables the entity that owns the signing domain to link itself with a digital signature that authenticates that entity.
+
+7. DMARC: Domain-based Message Authentication, Reporting and Conformance (DMARC) provides mechanisms for notification and mandating actions when messages fail authentication under SPF and DKIM. While SPF and DKIM can flag messages as being spoofed, DMARC enables domain owners to advertise what actions should be taken when spoofed addresses are detected and for recipients to determine the appropriate response action.
+
+8.  S/MIME: Secure/MIME (S/MIME) is the standard that defines how to encrypt and authenticate MIME-formatted data. While S/MIME content can be encrypted, the email headers are not, so an attacker would be able to see who is sending the message and who the intended recipient is.
+
+9.  OpenPGP: OpenPGP is a standard for encryption and authentication of data, including email messages, based on the Pretty Good Privacy (PGP) framework. OpenPGP is interoperable with S/MIME, and while data can be protected, the metadata around encrypted messages is not.
+
+10. Digital Certificates: Digital certificates are electronic documents that prove public key ownership, verifying senders are who they claim to be. A digital certificate can also be used to sign and encrypt emails. While they are not protocols per se, there are protocols that define how digital certificates can be created and shared.
 
 # COBIT vs. ITIL®: The Ultimate IT Governance Framework Comparison
 
