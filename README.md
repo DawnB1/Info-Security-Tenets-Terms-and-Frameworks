@@ -28,6 +28,29 @@ User Behavioral Analytics (UBA), Blockchain Cybersecurity, Endpoint Detection an
 Examples of Information Security in the Real World: DLP at Berkshire Bank, SOC at Grant Thornton, Incident Response at WSU, Information security certifications
 Best Practices
 
+# E-mail Protocols and Security Landscape
+
+https://www.techtarget.com/searchsecurity/answer/What-are-the-most-important-email-security-protocols
+
+**The following control how email is transmitted, formatted and retrieved:**
+
+1. Simple Mail Transfer Protocol (SMTP) specifies how messages are transmitted.
+2. The Internet Message Format, or Request For Comments 5322, and Multipurpose Internet Mail Extension (MIME) specifications determine how messages are formatted.
+3. Internet Message Access Protocol 4 and Post Office Protocol 3 specify how email clients retrieve messages from SMTP servers.
+
+E-mail Security Protocols and the Role They Play in Keeping E-mail Safe:
+SL/TLS for HTTPS: Secure Sockets Layer (SSL) was introduced in 1995. After experiencing vulnerabilities, SSLv3 was succeeded by the Transport Layer Security (TLS) protocol in 1999 and eventually deprecated in 2015. Many still refer to TLS as its predecessor, SSL.
+SMTPS: While SSL/TLS does not play an inherent role in email security, it is used for HTTPS, which is used for almost all email exchanges between servers and users.
+HTTPS uses TLS to encrypt streams of network traffic between clients and servers. It is not invoked directly in email, but is used for web traffic and thus is used to encrypt webmail messages.
+STARTTLS:
+SMTP MTA-STS:
+SPF:
+DKIM:
+DMARC:
+S/MIME:
+OpenPGP:
+Digital Certificates:
+
 # COBIT vs. ITIL®: The Ultimate IT Governance Framework Comparison
 
 https://www.simplilearn.com/cobit-vs-itil-article
