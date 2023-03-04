@@ -156,7 +156,7 @@ The concept that there should be zero trust with anything or anyone that is atte
 
 Examples of some of the main principles behind Zero Trust are: Implementing access controls (like VPN, which is an information access control), MFA or multi factor authentication (which requires 2 or more methods of authentication to verify a user, 2 factor is the most common), and Least Privilege (giving users the least amount of access they need to accomplish tasks within their specific role).
 
-## The Service Organization Control Report (SOC 2) and the Payment Card Industry Data Security Standard (PCI DSS)  
+## The Service Organization Control Report (SOC 2) and (PCI DSS) the Payment Card Industry Data Security Standard   
 
 https://reciprocity.com/resources/soc-2-vs-pci-compliance-whats-the-difference/
 
